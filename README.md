@@ -1,7 +1,7 @@
  Cake Shop - Hệ thống quản lý bánh ngọt
 
 ## Mô tả
-Ứng dụng Laravel giúp quản lý sản phẩm bánh ngọt, danh mục bánh ngọt và ngườ idunfg. Hệ thống hỗ trợ đăng nhập, bảo mật, và thao tác CRUD với giao diện đơn giản.
+Ứng dụng Laravel giúp quản lý sản phẩm bánh ngọt, danh mục bánh ngọt và người dùng. Hệ thống hỗ trợ đăng nhập, bảo mật, và thao tác CRUD với giao diện đơn giản.
 
 ## Công nghệ sử dụng
 - Laravel 10
